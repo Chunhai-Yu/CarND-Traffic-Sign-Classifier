@@ -74,7 +74,7 @@ The final model results are:
 
 ## Test a Model on New Images
 
-# 1. Choose test data
+## 1. Choose test data
 
 Here are 12 German traffic signs that are found on the web. The sixth and the ninth image might be difficult to classify because the symbol in the middle is difficult to recognize after the image resize to 32*32.
 
