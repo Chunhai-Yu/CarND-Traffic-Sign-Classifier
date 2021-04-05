@@ -16,7 +16,9 @@ In this project, you will use what you've learned about deep neural networks and
 
 The information of the traffic signs data set:
 
-* Number of training examples = 34799 * Number of validation examples = 4410 * Number of testing examples = 12630
+* Number of training examples = 34799
+* Number of validation examples = 4410
+* Number of testing examples = 12630
 * Image data shape = (32, 32)
 * Number of classes = 43
 
